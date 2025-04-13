@@ -52,13 +52,6 @@ A illigeble perspective of decoding problems with numerous languages & studying 
 <a href="https://auth.geeksforgeeks.org/user/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 </p>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=straycoder7xlv&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/straycoder7xlv/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=straycoder7xlv&theme=nightowl&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
 ![](https://github-readme-stats.vercel.app/api?username=straycoder7xlv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=straycoder7xlv&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=straycoder7xlv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
