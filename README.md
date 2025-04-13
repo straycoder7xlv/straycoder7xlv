@@ -40,19 +40,17 @@ A illigeble perspective of decoding problems with numerous languages & studying 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/samian bin joarder samin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samian bin joarder samin" height="30" width="40" /></a>
-<a href="https://instagram.com/soryusora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.shenron.__" height="30" width="40" /></a>
-<a href="https://discord.gg/soryu_so`ra#1431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="__.shizue.__#1431" height="30" width="40" /></a>
-<a href="https://twitter.com/scar4tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanemi004" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samian-bin-joarder-samin-a13697264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samian bin joarder" height="30" width="40" /></a>
+<a href="https://fb.com/samian bin joarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samian bin joarder samin" height="30" width="40" /></a>
+<a href="https://instagram.com/arieekarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.shenron.__" height="30" width="40" /></a>
+<a href="https://discord.gg/arieekarinkun#1431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="__.shizue.__#1431" height="30" width="40" /></a>
+<a href="https://twitter.com/arieekarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanemi004" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samian-bin-joarder-a13697264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samian bin joarder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/straycoder7xlv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 </p>
-
-### <img src="https://cdn-icons-png.flaticon.com/512/1011/1011579.png" width="50px"/>Samian's GitHub Contribution:-
 
 <a href="https://github.com/straycoder7xlv/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=straycoder7xlv&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
