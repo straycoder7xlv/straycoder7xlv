@@ -52,7 +52,6 @@ A illigeble perspective of decoding problems with numerous languages & studying 
 <a href="https://auth.geeksforgeeks.org/user/straycoder7xlv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="straycoder7xlv" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/straycoder7xlv/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=straycoder7xlv&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/straycoder7xlv/github-readme-activity-graph#gh-dark-mode-only">
